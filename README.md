@@ -1,15 +1,11 @@
-# FAQ Template
+COVID-19 INDIA
+Team : SMC T-9
 
-An easy to customize template for the FAQ section of your project, with the questions/answers grouped in categories to ease the navigation.
-
-[Article on CodyHouse](https://codyhouse.co/gem/css-faq-template)
-
-[Demo](https://codyhouse.co/demo/faq-template)
- 
-[License](https://codyhouse.co/license)
-
-## Dependencies
-
-This experiment is built upon the [CodyHouse Framework](https://github.com/CodyHouse/codyhouse-framework).
-
-Make sure to include both style.scss and util.js files of the framework.
+1.Rambabu malgaya
+2.Divyansh singhal
+3.Mudit paliwal
+4.kshitj tyagi
+Statement category : Covid 19
+Discription:
+ We make a site on covid 19. As you all know many peoples died because of didn't find resources on time.
+ On our site, you find all the resources on time in we include data for all the states, It provides Bed and oxygen data, etc.
